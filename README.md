@@ -8,14 +8,12 @@ Other links for the book are available on the book page at <a href="http://wicke
 
 # Execution
 
-* Make sure to fully load the VSCode extensions.
+* Make sure to fully load the `VSCode` extensions.
 
-* Change to the directory of the project.
+* Change to the directory of the project in the `VSCode Explorer`
 
-```
-cd headfirst/designpatterns/strategy
-```
-* Open the ```main``` class in the editor.
+* Open the `main` class in the editor.
 
-* Clic the ```play``` button to execute.
+* In the *status bar* clic over `Java{}` to `Load Project`.
 
+* Clic the `play` button to execute.
